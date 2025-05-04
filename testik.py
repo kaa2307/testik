@@ -18,4 +18,4 @@ if __name__ == "__main__":
         area = calculate_area(length, width)
         print(f"Площадь прямоугольника: {area}")
     except ValueError:
-        print("Ошибка: введите числовое значение.")
+        print("Ошибка: введите числовое  значение.")
